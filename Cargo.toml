@@ -1,0 +1,13 @@
+[package]
+name = "backup-to-drive"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.86"
+chrono = "0.4.38"
+clap = { version = "4.5.7", features = ["derive"] }
+regex = "1.10.5"
+resolve-path = "0.1.0"
+serde = { version = "1.0.203", features = ["derive"] }
+toml = "0.8.14"

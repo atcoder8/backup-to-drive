@@ -1,0 +1,10 @@
+[path]
+
+# File or directory to be backed up.
+target = "~/Documents/Minecraft/worlds/1.20/Vanilla/Survival_20240420"
+
+# Local backup destination directory.
+local = "~/Documents/Minecraft/worlds/1.20/Vanilla/backup"
+
+# Cloud backup destination directory.
+cloud = "~/GoogleDrive/Minecraft/GameFiles/Survival_20240420"
